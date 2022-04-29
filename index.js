@@ -1,5 +1,5 @@
 /*
-Copyright © Fog Network
+Copyright © Denger Network
 Made by Nebelung
 MIT license: https://opensource.org/licenses/MIT
 */
